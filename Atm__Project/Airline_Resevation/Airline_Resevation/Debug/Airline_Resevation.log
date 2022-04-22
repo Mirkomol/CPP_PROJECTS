@@ -1,0 +1,8 @@
+﻿  Airline_Resevation.cpp
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\Airline_Resevation\Airline_Resevation\Airline_Resevation.cpp(276,17): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\Airline_Resevation\Airline_Resevation\Airline_Resevation.cpp(281,17): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\Airline_Resevation\Airline_Resevation\Airline_Resevation.cpp(287,17): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\Airline_Resevation\Airline_Resevation\Airline_Resevation.cpp(325,10): warning C4129: |: неизвестная escape-последовательность
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\Airline_Resevation\Airline_Resevation\Airline_Resevation.cpp(332,10): warning C4129: |: неизвестная escape-последовательность
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\Airline_Resevation\Airline_Resevation\Airline_Resevation.cpp(318,6): warning C4101: rchoice: неиспользованная локальная переменная
+  Airline_Resevation.vcxproj -> C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\Airline_Resevation\Debug\Airline_Resevation.exe

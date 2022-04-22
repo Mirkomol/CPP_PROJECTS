@@ -1,0 +1,8 @@
+﻿  AtmProject.cpp
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\AtmProject\AtmProject\AtmProject.cpp(7,10): warning C4129: *: неизвестная escape-последовательность
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\AtmProject\AtmProject\AtmProject.cpp(8,10): warning C4129: : неизвестная escape-последовательность
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\AtmProject\AtmProject\AtmProject.cpp(9,10): warning C4129: : неизвестная escape-последовательность
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\AtmProject\AtmProject\AtmProject.cpp(10,10): warning C4129: : неизвестная escape-последовательность
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\AtmProject\AtmProject\AtmProject.cpp(11,10): warning C4129: : неизвестная escape-последовательность
+C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\AtmProject\AtmProject\AtmProject.cpp(12,10): warning C4129: *: неизвестная escape-последовательность
+  AtmProject.vcxproj -> C:\Users\UltraShopUZ\Desktop\C++_PROJECTS\Atm__Project\AtmProject\Debug\AtmProject.exe
